@@ -1,0 +1,2 @@
+[webserver]
+3.98.91.52 ansible_user=ec2-user
